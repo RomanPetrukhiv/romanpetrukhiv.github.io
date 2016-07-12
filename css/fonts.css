@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'PNB';
+    src: url(../fonts/Proxima%20Nova%20Bold.otf);
+}
+@font-face {
+    font-family: 'PDDPR';
+    src: url(../fonts/pfdindisplaypro-reg.ttf);
+}
+@font-face {
+    font-family: 'PDDPB';
+    src: url(../fonts/pfdindisplaypro-bold.ttf);
+}
+@font-face {
+    font-family: 'PDDPL';
+    src: url(../fonts/pfdindisplaypro-light.ttf);
+}
+@font-face {
+    font-family: 'PSSPR';
+    src: url(../fonts/PF%20Square%20Sans%20Pro%20Regular.ttf);
+}
+@font-face {
+    font-family: 'PSSPL';
+    src: url(../fonts/PF%20Square%20Sans%20Pro%20Light.ttf);
+}
+@font-face {
+    font-family: 'OPR';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'OPL';
+    src: url(../fonts/OpenSans-Light.ttf);
+}
+@font-face {
+    font-family: 'PDDPMI';
+    src: url(../fonts/pfdindisplaypro-medital.ttf);
+}
+@font-face {
+    font-family: 'PDDPTH';
+    src: url(../fonts/pfdindisplaypro-thin.ttf);
+}
